@@ -14,5 +14,6 @@ A few wings of the collection:
 | 🎸 [The Making of Music City](https://ashbybrewer.github.io/making-of-music-city/) | Nashville 1779–2026, five lenses |
 | 🗺 [The Peopling of America](https://ashbybrewer.github.io/peopling-of-america/) | every census 1790–2020, county by county |
 | 🤖 [minigpt](https://github.com/ashbybrewer/minigpt) | a language model from scratch, ~300 readable lines |
+| ⚖️ [Recidivism, revisited](https://github.com/ashbybrewer/Recidivism-Forecasting-Challenge) | NIJ challenge model + a 2026 re-analysis: re-offending concentrates in a persistent cohort |
 
 *Designed and directed by me; built in collaboration with AI. The research direction, historical judgment, error-catching, and product decisions are the human contribution — the framing says so honestly, because that honesty is the point.*
