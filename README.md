@@ -1,6 +1,6 @@
 ### William Brewer · Nashville, TN
 
-**I turn public records into decision instruments** — the homeowners-insurance repricing of 3,142 counties, the insurance-adjusted cap rate every stale pro-forma is missing, the AI datacenter buildout by county and megawatt, a property-underwriting ETL pipeline, a Nashville neighborhood intelligence map. Economics background, real-world operator, self-directed engineer. Two rules: ship something that actually *runs*, and never blur the line between what's **SOURCED** and what's **MODELED**.
+**I turn public records into decision instruments** — the homeowners-insurance repricing of 3,142 counties, the insurance-adjusted cap rate every stale pro-forma is missing, what an AI campus announcement does to the housing market around it, a property-underwriting ETL pipeline, a Nashville neighborhood intelligence map. Economics background, real-world operator, self-directed engineer. Two rules: ship something that actually *runs*, and never blur the line between what's **SOURCED** and what's **MODELED**.
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -22,8 +22,9 @@
 |---|---|---|
 | **[The Premium Map](https://github.com/ashbybrewer/premium-map)** | The homeowners-insurance crisis as a national instrument — premium escalation, non-renewals, loss ratios, and insurer exits across 3,142 counties, built from Treasury/FIO, Senate, NOAA, and FEMA records. | **[▶ launch](https://ashbybrewer.github.io/premium-map/)** |
 | **[CAP//RATE](https://github.com/ashbybrewer/cap-rate-map)** | The insurance-adjusted cap rate map — every county re-underwritten at its 2021 premium vs. today's, the drag in basis points, and a deal calculator with shareable deep links. The Premium Map's companion piece. | **[▶ launch](https://ashbybrewer.github.io/cap-rate-map/)** |
-| **[RealtyETL](https://github.com/ashbybrewer/realty-etl)** | ETL + BI for property profitability — DuckDB warehouse, Prefect orchestration, cap-rate/NOI/GRM scoring, Streamlit dashboard, 20+ test suite. | repo |
+| **[DATACENTER//HALO](https://github.com/ashbybrewer/datacenter-halo)** | A ZIP-ring event study of what an AI campus announcement does to the housing market around it — thirteen markets, three archetypes (boomtowns, absorbers, anti-halos), built on Zillow, Census permits, and the gigawatt-race roster. | **[▶ launch](https://ashbybrewer.github.io/datacenter-halo/)** |
 | **[The Gigawatt Race](https://github.com/ashbybrewer/gigawatt-race)** | County-level atlas of the American AI datacenter buildout, 2020–2028 — capacity, power source, water, tax abatements. The open version of what paywalled trackers sell. | **[▶ launch](https://ashbybrewer.github.io/gigawatt-race/gigawatt-race/)** |
+| **[RealtyETL](https://github.com/ashbybrewer/realty-etl)** | ETL + BI for property profitability — DuckDB warehouse, Prefect orchestration, cap-rate/NOI/GRM scoring, Streamlit dashboard, 20+ test suite. | repo |
 | **[Nash / Shift](https://github.com/ashbybrewer/nashville-time-machine)** | Nashville neighborhood intelligence, 1980–2035 — 267 neighborhoods, opportunity scoring with named drivers and execution risks, investor/resident/planner lenses. | **[▶ launch](https://ashbybrewer.github.io/nashville-time-machine/)** |
 | **[The Chart of the Century](https://github.com/ashbybrewer/interactive-cpi-explorer)** | U.S. price divergence since 2000 — competitive sectors fell, regulated sectors soared — with a personal-inflation calculator built on BLS data. | **[▶ launch](https://ashbybrewer.github.io/interactive-cpi-explorer/)** |
 
